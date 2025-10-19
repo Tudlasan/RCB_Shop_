@@ -5,4 +5,5 @@ dependencies:
   flutter:
     sdk: flutter
   provider: ^6.0.5
+https://github.com/Tudlasan/RCB_Shop_
 
